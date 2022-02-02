@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\kursovaya\testing\main.cpp(54): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\kursovaya\testing\main.cpp(73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\kursovaya\testing\main.cpp(89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\kursovaya\testing\main.cpp(135): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 73 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Testing.vcxproj -> C:\Kursovaya\Release\Testing.exe

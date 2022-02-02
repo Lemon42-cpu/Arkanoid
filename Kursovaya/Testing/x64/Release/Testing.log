@@ -1,0 +1,19 @@
+﻿  Ending.cpp
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Ending.cpp(52,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Ending.cpp(55,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Game.cpp
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Game.cpp(17,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Game.cpp(17,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Game.cpp(29,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Game.cpp(29,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Game.cpp(84,75): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Menu.cpp
+  main.cpp
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Ending.cpp(62): warning C4715: Ending::End: значение возвращается не при всех путях выполнения
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Ending.cpp(33): warning C4715: Ending::End: значение возвращается не при всех путях выполнения
+C:\Users\Speedwagon\Desktop\Kursovaya\Testing\Game.cpp(119): warning C4715: Game::sGame: значение возвращается не при всех путях выполнения
+  All 90 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Testing.vcxproj -> C:\Users\Speedwagon\Desktop\Kursovaya\x64\Release\Testing.exe
